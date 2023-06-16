@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "752547269491",
+    "firebase_url": "https://easywin-64c3a.firebaseio.com",
+    "project_id": "easywin-64c3a",
+    "storage_bucket": "easywin-64c3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752547269491:android:50ddcdef686205afe09306",
+        "android_client_info": {
+          "package_name": "com.easywinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752547269491-k89f5inkabsebalh8mjo387mf69mmjs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easywinapp",
+            "certificate_hash": "bd21a4a3b423b3d189e6c961edc2fe2f864d55fb"
+          }
+        },
+        {
+          "client_id": "752547269491-teevatur63iv8sgo32a6guduku27g1d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easywinapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "752547269491-s7odl86jsg2le5uag2gl22fac362j7ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDily3hxbAH_FEkpsw5xa_5pJP3aCei_bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752547269491-s7odl86jsg2le5uag2gl22fac362j7ot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752547269491-61ogmqpsgdnkc2demag7jvt1scelmh02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easywin.www"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>752547269491-61ogmqpsgdnkc2demag7jvt1scelmh02.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.752547269491-61ogmqpsgdnkc2demag7jvt1scelmh02</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAk3gCkgs4PtBEHEto8T63rODnlHaf_YRA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>752547269491</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.easywin.www</string>
+	<key>PROJECT_ID</key>
+	<string>easywin-64c3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>easywin-64c3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:752547269491:ios:c451f6e21406be45e09306</string>
+	<key>DATABASE_URL</key>
+	<string>https://easywin-64c3a.firebaseio.com</string>
+</dict>
+</plist>

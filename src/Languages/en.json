@@ -1,0 +1,57 @@
+{
+  "app": {
+    "noInternet": "You seem to be offline. Please check your internet connection",
+    "poorInternet": "Poor internet connectivity. Please try again later",
+    "messageEmpty": "Please enter a message to send",
+    "messageSentSuccessfully": "Your message has been sent",
+    "couldNotSendMessage": "Could not send message. Please try again in a moment",
+    "close": "Close"
+  },
+  "auth": {
+    "enterValidEmailAddress": "Please enter a valid email address",
+    "nameCannotBeEmpty": "Please enter your name and last name",
+    "passwordCannotBeEmpty": "Please enter a password",
+    "couldNotSignUpAtTheMoment": "Could not sign up at the moment. Please try again in a minute",
+    "couldNotSignInAtTheMoment": "Could not sign in at the moment. Please try again in a minute",
+    "weekPassword": "Please choose a strong password",
+    "emailAlreadyInUse": "That email address is already in use!",
+    "invalidCredentials": "Invalid email or password",
+    "sessionExpired": "Session expired. Please login again",
+    "enterExistingPassword": "Please enter existing password",
+    "enterPassword": "Please enter new password",
+    "passwordConfirmDoesNotMatch": "new password and confirm password do not match",
+    "passwordChangedSuccessfully": "Password changed",
+    "invalidOldPassword": "Old password is invalid"
+  },
+  "userPref": {
+    "selectAtleastMinimumOptions": "Please select atleast 3 options"
+  },
+  "user": {
+    "insufficientTickets": "You do not have enough tickets",
+    "insufficientCoins": "You do not have enough coins",
+    "insufficientChallangeCredits": "You do not have enough Challange Credits",
+    "insufficientScratchCredits": "You have already shared today",
+    "profileUpdatedSuccessfully": "Profile updated",
+    "interestsUpdatedSuccessfully": "Interests updated",
+    "passwordUpdatedSuccessfully": "Password Updated",
+    "scratchParticipationLimitReached": "You have reached scratch limit for this scratch today",
+    "scratchParticipationCoinsLimitReached": "You have reached scratch coins limit for this scratch today",
+    "codeCopiedToClipboard": "Sponsor code Copied To Clipboard",
+    "discountCodeCopiedToClipboard": "Discount code copied to clipboard",
+    "couldNotAffiliate": "Could not make affiliate",
+    "premiumWheelDailyLimit": "You have reached daily limit for spins",
+    "videoLimitForChallanges": "You have reached daily credit spending limit for this challange",
+    "invalidPhone": "Please enter a valid phone number",
+    "phoneAlreadyInUse": "This phone is already in use/nplease enter a different phone number",
+    "enterVerificationCode": "Please enter verification code",
+    "InvalidVerificationCode": "The verification code you entered is wrong",
+    "scratchExpired": "Game over ! Le grattage est terminé..."
+  },
+  "Concours": {
+    "enterTickets": "Please enter ticket amount to spend",
+    "giveAllAnswers": "Please fill all answers"
+  },
+  "Wheel": {
+    "youWon": "You won"
+  }
+}

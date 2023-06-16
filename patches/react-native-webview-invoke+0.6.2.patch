@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-webview-invoke/src/native.js b/node_modules/react-native-webview-invoke/src/native.js
+index c355997..97465ec 100644
+--- a/node_modules/react-native-webview-invoke/src/native.js
++++ b/node_modules/react-native-webview-invoke/src/native.js
+@@ -2,7 +2,7 @@ import { createMessager } from './messager/index'
+ 
+ export default getWebview => {
+     const { bind, define, listener: handler, fn, addEventListener, removeEventListener, isConnect } = createMessager(
+-        (data) => getWebview().postMessage(JSON.stringify(data))
++        (data) => getWebview()?.postMessage(JSON.stringify(data))
+     )
+     return {
+         bind, define, fn,
